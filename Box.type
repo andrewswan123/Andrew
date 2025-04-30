@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>A-Z Fisheries | Asian Carp Harvesting</title>
+  <style>
+    body { font-family: sans-serif; background: #f4f4f4; margin: 0; padding: 0; }
+    header, footer { background: #024; color: white; padding: 1em; text-align: center; }
+    main { padding: 2em; max-width: 800px; margin: auto; background: white; }
+    h1 { color: #036; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>A-Z Fisheries</h1>
+    <p>Fighting the invasive Asian carp with innovative mass-harvest solutions</p>
+  </header>
+  <main>
+    <h2>Our Mission</h2>
+    <p>We're on a mission to remove millions of pounds of invasive Asian carp from Illinois waterways. With new technology and experience, we're ready to take action now — but we need your support.</p>
+    
+    <h2>Why It Matters</h2>
+    <ul>
+      <li>Asian carp threaten native fish species and ecosystems</li>
+      <li>They damage commercial and recreational fisheries</li>
+      <li>They’re spreading rapidly and action can’t wait</li>
+    </ul>
+    
+    <h2>Support the Cause</h2>
+    <p>We're seeking donations of equipment, funds, and visibility. Every bit counts.</p>
+    <p>Contact: <strong>Andrew R. Swan</strong><br/>
+    Phone: 217-323-0439<br/>
+    Email: swanandy381@gmail.com</p>
+  </main>
+  <footer>
+    &copy; 2025 A-Z Fisheries. All rights reserved.
+  </footer>
+</body>
+</html>
